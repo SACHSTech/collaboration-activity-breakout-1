@@ -16,3 +16,14 @@ Provides incident remediation and prevention documentation
 Provides performance metrics as necessary
 Provides customer service that exceeds our customers’ expectations
 Los Angeles, CA
+
+LEAD CYBER SECURITY ANALYST
+08/2007 – 01/2014
+Provide technical and operational leadership for cyber-security incident response
+Assist with triage, prioritisation and response to cyber-security events and incidents
+Act as technical incident lead during major cyber-security incidents
+Continuously improve maturity and operational efficiency of the team – including methodologies, processes, detection use cases and response playbooks
+Maintain an up-to-date knowledge of cyber threats
+Drive continuous learning and knowledge sharing within the team
+Work in a 'business hours + rostered on-call' environment
+Phoenix, AZ
